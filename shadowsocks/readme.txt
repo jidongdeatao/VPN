@@ -61,3 +61,5 @@ iptables -I OUTPUT -p tcp --dport your_server_port -j ACCEPT
    在 SwitchyOmega 中把代理设置为 SOCKS5 或 HTTP 的 127.0.0.1:1080。这个 1080 端口可以在服务器设置中设置。
    至此就可以用浏览器访问Google, facebook, youtube等
 
+具体参考文章：
+https://blog.csdn.net/g1531997389/article/details/79732867
